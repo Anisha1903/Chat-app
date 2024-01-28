@@ -4,7 +4,7 @@ Developed a real-time chat application using React.js, providing users with a se
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo - [link](https://chat-app-mfh5.onrender.com/login)
+## Demo - [link](https://chat-app-mfh5.onrender.com)
 
 ## Available Scripts
 
